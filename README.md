@@ -17,9 +17,10 @@ Concevoir une collection de bijoux et accessoires de mode augmentés.
 - Export glTF pour Blender : https://github.com/KhronosGroup/glTF-Blender-Exporter ou https://blackthread.io/gltf-converter/
 
 ### Références
-- http://mixtur.es/apparel/
-- http://normalfutu.re/apparel/a-p-p-a-r-e-l-v-1-0-application/ + http://mixtur.es/category/apparel/?aa=5
-- https://www.tate.org.uk/context-comment/articles/extending-bodies
+- Le travail de N O R M A L S : http://mixtur.es/apparel/ + http://normalfutu.re/apparel/a-p-p-a-r-e-l-v-1-0-application/ + http://mixtur.es/category/apparel/?aa=5
+![](https://pbs.twimg.com/media/CqBXlvGWAAAIs8J.jpg:large)
+- Un article à propos de l'exposition _Extended Bodies_ à la Tate : https://www.tate.org.uk/context-comment/articles/extending-bodies
+![](https://www.tate.org.uk/sites/default/files/images/extending-bodies-2.jpg)
 - http://barthess.nl/lucyandbart.html
 - http://www.curvelive.com/Magazine/Archives/eighteen/A-blushing-dress-and-an-excitable-body-suit
 - https://n-e-r-v-o-u-s.com/
