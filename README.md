@@ -3,7 +3,7 @@
 ## Planning
 - Lundi 10 - 10h—17h - KV (+ JB 13-14h)
 - Jeudi 13 - 09h—17h - KV @ urbanLab
-- Lundi 17 - 09h—17h — KV
+- Lundi 17 - 09h—17h - KV
 
 ## Demande
 Concevoir une collection de bijoux et accessoires de mode augmentés.
@@ -12,6 +12,7 @@ Concevoir une collection de bijoux et accessoires de mode augmentés.
 ### Ressources techniques
 - VR / WebVR : https://aframe.io/
 - AR : https://aframe.io  + AR.js = https://aframe.io/blog/arjs/
+- Générateur de _markers_ personnalisés : https://jeromeetienne.github.io/AR.js/three.js/examples/marker-training/examples/generator.html
 - Gestion des modèles 3D : https://aframe.io/docs/0.8.0/introduction/models.html
 - Blender : https://www.blender.org/
 - Export glTF pour Blender : https://github.com/KhronosGroup/glTF-Blender-Exporter ou https://blackthread.io/gltf-converter/
