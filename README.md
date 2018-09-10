@@ -32,7 +32,7 @@ Ici, vous trouverez plusieurs scripts d'exemple pour démarrer vos projets. Pour
 _Note : la procédure suivante est valable pour macOS et (à quelques ajustements près) pour Linux._
 
 ### Installation
-_Note : [Git](https://git-scm.com/downloads) et [Google Chrome](https://www.google.com/chrome/) doivent être installés sur la machine.
+_Note : [Git](https://git-scm.com/downloads) et [Google Chrome](https://www.google.com/chrome/) doivent être installés sur la machine._
 
 1. Ouvrir le Terminal
 2. Créer un dossier dans les documents (par exemple) en tapant dans le Terminal **`cd ~/Documents && mkdir dsaa-wearable && cd dsaa-wearable`** puis en appuyant sur **`Entrée`**
