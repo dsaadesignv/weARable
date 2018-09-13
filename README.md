@@ -64,13 +64,13 @@ _Note : [Git](https://git-scm.com/downloads) et [Google Chrome](https://www.goog
 ### Problèmes courants
 
 
-**Les repos de Github ne se téléchargent pas, et restent bloqués à "Cloning…"** 
+**Les repos de Github ne se téléchargent pas, et restent bloqués à "Cloning…"**
 
 👉 Il ne faut pas se mettre sur le réseau du lycée, donc il faut passer par une 4G le temps du téléchargement. Désactiver le proxy du réseau en restant sur le réseau ne suffit pas. De même, si vous passez par une 4G, pensez à désactiver le proxy le temps du téléchargement.
 
 **Je ne peux pas afficher la page sur le réseau du lycée**
 
-👉 Il faut ajouter une exception au proxy : 
+👉 Il faut ajouter une exception au proxy :
 1. Ouvrir les Préférences Système
 2. Ouvrir `Réseau`
 3. Dans la colonne de gauche, cliquer sur le premier moyen de connexion de la liste
@@ -85,7 +85,3 @@ _Note : [Git](https://git-scm.com/downloads) et [Google Chrome](https://www.goog
 **Mon modèle 3D et/ou mes textures ne s'affichent pas**
 
 👉 Vérifiez que l'URL de votre page commence bien par https://localhost:4443 et non pas par `file://`
-
-
-
-

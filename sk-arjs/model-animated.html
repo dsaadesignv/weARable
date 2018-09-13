@@ -1,5 +1,7 @@
 <script src="./lib/aframe.min.js"></script>
 <script src="./lib/aframe-ar.min.js"></script>
+<script src="./lib/aframe-animation-component.min.js"></script>
+
 <script type="text/javascript">
 	ARjs.Context.baseURL = 'https://localhost:4443/';
 </script>
@@ -10,9 +12,15 @@
       <img id="ground" src="./models/textures/ground.jpg">
     </a-assets>
 
+		<!-- <a-box position='0 0.5 0' material='opacity: 0.5;'></a-box> -->
     <a-plane src="#ground" height="5" width="5" rotation='-90 0 0'></a-plane>
 
-    <a-entity gltf-model="#t-rex" scale='.5 .5 .5'></a-entity>
+    <a-entity gltf-model="#t-rex" scale='.5 .5 .5'
+                animation__scale="property: scale; dir: alternate; dur: 200;
+                           easing: easeInSine; loop: true; to: 1.2 1 1.2"
+                animation__yoyo="property: position; dir: alternate; dur: 1000;
+                                 easing: easeInSine; loop: true; to: 0 2 0">
+		</a-entity>
 		<a-marker-camera preset='hiro'></a-marker-camera>
 	</a-scene>
 </body>
